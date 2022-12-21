@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Projetos.Domain\Projetos.Domain.csproj" />
+    <ProjectReference Include="..\Projetos.Infra.CrossCutting\Projetos.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\Projetos.Infra.Data\Projetos.Infra.Data.csproj" />
+    <ProjectReference Include="..\Projetos.Service\Projetos.Service.csproj" />
+  </ItemGroup>
+
+</Project>

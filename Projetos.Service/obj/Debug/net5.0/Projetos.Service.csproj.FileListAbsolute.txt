@@ -1,0 +1,17 @@
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Service.deps.json
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Service.dll
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\ref\Projetos.Service.dll
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Service.pdb
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Domain.dll
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Infra.CrossCutting.dll
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Domain.pdb
+D:\Workspace\Projetos\Projetos\Projetos.Service\bin\Debug\net5.0\Projetos.Infra.CrossCutting.pdb
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.csproj.AssemblyReference.cache
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.AssemblyInfoInputs.cache
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.AssemblyInfo.cs
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.csproj.CoreCompileInputs.cache
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.csproj.CopyComplete
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.dll
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\ref\Projetos.Service.dll
+D:\Workspace\Projetos\Projetos\Projetos.Service\obj\Debug\net5.0\Projetos.Service.pdb

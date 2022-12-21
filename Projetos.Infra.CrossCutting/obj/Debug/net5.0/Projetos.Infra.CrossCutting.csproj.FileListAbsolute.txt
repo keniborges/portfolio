@@ -1,0 +1,12 @@
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\bin\Debug\net5.0\Projetos.Infra.CrossCutting.deps.json
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\bin\Debug\net5.0\Projetos.Infra.CrossCutting.dll
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\bin\Debug\net5.0\ref\Projetos.Infra.CrossCutting.dll
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\bin\Debug\net5.0\Projetos.Infra.CrossCutting.pdb
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.csproj.AssemblyReference.cache
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.AssemblyInfo.cs
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.dll
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\ref\Projetos.Infra.CrossCutting.dll
+D:\Workspace\Projetos\Projetos\Projetos.Infra.CrossCutting\obj\Debug\net5.0\Projetos.Infra.CrossCutting.pdb

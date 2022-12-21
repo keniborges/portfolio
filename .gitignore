@@ -1,0 +1,12 @@
+/Projetos/bin
+/Projetos/obj
+/Projetos.Domain/bin
+/Projetos.Domain/obj
+/Projetos.Infra.CrossCutting/bin
+/Projetos.Infra.CrossCutting/obj
+/Projetos.Infra.CrossCutting.Ioc/bin
+/Projetos.Infra.CrossCutting.Ioc/obj
+/Projetos.Infra.Data/bin
+/Projetos.Infra.Data/obj
+/Projetos.Service/bin
+/Projetos.Service/obj

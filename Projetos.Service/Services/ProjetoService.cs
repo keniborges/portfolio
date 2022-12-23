@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Projetos.Domain.DTos;
+using Projetos.Domain.Entities;
 using Projetos.Domain.Interfaces.Repositories;
 using Projetos.Infra.CrossCutting.Handlers.Notifications;
 using Projetos.Service.Helpers;

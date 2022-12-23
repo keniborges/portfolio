@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Projetos.Domain.DTos;
 using System.Threading.Tasks;
 
 namespace Projetos.Service.Interfaces
 {
     public interface IProjetoService
     {
-        public bool Salvar();
+        Task<bool> Remover(long projetoId);
+
+        Task<bool> MudarStatus(ProjetoMudaStatusDTo status);
+
+        Task<bool> Salvar(ProjetoDTo model);
     }
 }

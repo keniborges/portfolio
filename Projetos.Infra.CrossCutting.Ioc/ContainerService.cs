@@ -48,6 +48,8 @@ namespace Projetos.Infra.CrossCutting.Ioc
         {
             services.AddFluentValidationAutoValidation();
             services.AddTransient<IValidator<FuncionarioDTo>, FuncionarioValidator>();
+            services.AddTransient<IValidator<ProjetoMudaStatusDTo>, ProjetoMudaStatusValidator>();
+            
             return services;
         }
 
